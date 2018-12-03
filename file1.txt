@@ -1,4 +1,11 @@
 Test file 1..
 Added
 
+edition after commit 2
 
+edition after commit 2
+edition after commit 2
+
+edition after commit 2
+
+edition after commit 2
