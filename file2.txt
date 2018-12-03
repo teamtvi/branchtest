@@ -1,3 +1,4 @@
 Test file 2
 Created in GIT web
-edited by shda.
+removed shada's edition
+Added mine
